@@ -1,0 +1,9 @@
+APIS IMPORTANTES:
+
+Directions Api
+Distance Matrix Api
+Geocoding Api
+Maps JavaScript Api
+Places Api
+
+Se encuentran en: https://cloud.google.com/apis?utm_source=google&utm_medium=cpc&utm_campaign=latam-CO-all-es-dr-SKWS-all-all-trial-p-dr-1011454-LUAC0015739&utm_content=text-ad-none-any-DEV_c-CRE_534658814361-ADGP_Hybrid%20%7C%20SKWS%20-%20PHR%20%7C%20Txt%20~%20API-Management_General-KWID_43700065166693960-kwd-152051905&utm_term=KW_api-ST_API&gclid=Cj0KCQjw6_CYBhDjARIsABnuSzpY3He7rYCXbQJedIeLqOkjb5DSuL7GyCzMjGFYIutGcAWklHDY0d8aApwgEALw_wcB&gclsrc=aw.ds 
